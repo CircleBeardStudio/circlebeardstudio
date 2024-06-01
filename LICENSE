@@ -1,24 +1,30 @@
-This is free and unencumbered software released into the public domain.
+VRTarget Shooter License Agreement
+1. Introduction
+This License Agreement ("Agreement") is a legal agreement between you ("Licensee") and Circle Beard Studio ("Licensor"), the developer of the software product "VRTarget Shooter" ("Software"). By using the Software, you agree to be bound by the terms and conditions of this Agreement.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+2. Grant of License
+Subject to the terms of this Agreement, Licensor grants to Licensee a non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes. This license does not allow Licensee to sell, distribute, or commercially exploit the Software in any manner.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+3. Restrictions
+Licensee shall not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Sell, distribute, lease, rent, or sublicense the Software.
+Modify, adapt, translate, or create derivative works based upon the Software.
+Reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law.
+Use the Software for any commercial purpose or for any purpose that is not expressly permitted under this Agreement.
+4. Ownership
+The Software is licensed, not sold. Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights therein. Licensee acknowledges that no title or ownership of the Software is transferred to Licensee under this Agreement.
+5. Privacy
+Licensor does not collect, store, or transmit any personal information or data about the users of the Software. The Software operates entirely locally on your device and does not require any internet connection for its core functionality.
+6. Disclaimer of Warranties
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Licensor does not warrant that the Software will meet Licensee's requirements or that the operation of the Software will be uninterrupted or error-free.
 
-For more information, please refer to <https://unlicense.org>
+8. Limitation of Liability
+In no event shall Licensor be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, business interruption, loss of information, or any other pecuniary loss) arising out of the use of or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+
+10. Entire Agreement
+This Agreement constitutes the entire agreement between the parties with respect to the use of the Software and supersedes all prior or contemporaneous understandings regarding such subject matter. No amendment to or modification of this Agreement will be binding unless in writing and signed by Licensor.
+
+11. Contact Information
+If you have any questions about this Agreement, please contact Circle Beard Studio at circlebeardstudio@gmail.com.
