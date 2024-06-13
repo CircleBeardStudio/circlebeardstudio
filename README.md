@@ -29,7 +29,7 @@ Contact Us
 If you have any questions or concerns about this Privacy Policy, please feel free to contact us at:
 
 Circle Beard Studio
-Email: support@circlebeardstudio.com
+Email: circlebeardstudio@gmail.com
 
 Conclusion
 Your privacy is important to us. By using Target Shooter, you agree to this Privacy Policy. We are committed to providing a secure and enjoyable gaming experience without compromising your privacy.
