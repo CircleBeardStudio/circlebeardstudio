@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome on Site with Circle Beard Studio 
+
+We hope you will enjoy our game and make some fun memories. 
 <!--
 **CircleBeardStudio/circlebeardstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
