@@ -3,7 +3,7 @@
 Welcome on Site with Circle Beard Studio 
 
 We hope you will enjoy our game and make some fun memories. 
-<!--
+<!--Please see attached our Privacy policy
 **CircleBeardStudio/circlebeardstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
